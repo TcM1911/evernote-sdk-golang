@@ -7,7 +7,7 @@ import (
 	"flag"
 	"fmt"
 	"github.com/apache/thrift/lib/go/thrift"
-	"github.com/dreampuf/evernote-sdk-golang/userstore"
+	"github.com/tcm1911/evernote-sdk-golang/userstore"
 	"math"
 	"net"
 	"net/url"

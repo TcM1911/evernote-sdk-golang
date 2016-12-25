@@ -3,8 +3,8 @@ package client
 import (
 	"fmt"
 	"github.com/apache/thrift/lib/go/thrift"
-	"github.com/dreampuf/evernote-sdk-golang/notestore"
-	"github.com/dreampuf/evernote-sdk-golang/userstore"
+	"github.com/tcm1911/evernote-sdk-golang/notestore"
+	"github.com/tcm1911/evernote-sdk-golang/userstore"
 	"github.com/mrjones/oauth"
 )
 

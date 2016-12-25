@@ -7,8 +7,8 @@ import (
 	"bytes"
 	"fmt"
 	"github.com/apache/thrift/lib/go/thrift"
-	"github.com/dreampuf/evernote-sdk-golang/errors"
-	"github.com/dreampuf/evernote-sdk-golang/types"
+	"github.com/tcm1911/evernote-sdk-golang/errors"
+	"github.com/tcm1911/evernote-sdk-golang/types"
 )
 
 // (needed to ensure safety because of naive import list construction.)
