@@ -6,8 +6,9 @@ package types
 import (
 	"bytes"
 	"fmt"
+
+	"github.com/TcM1911/evernote-sdk-golang/limits"
 	"github.com/apache/thrift/lib/go/thrift"
-	"github.com/tcm1911/evernote-sdk-golang/limits"
 )
 
 // (needed to ensure safety because of naive import list construction.)

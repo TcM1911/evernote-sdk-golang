@@ -6,14 +6,15 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/apache/thrift/lib/go/thrift"
-	"github.com/tcm1911/evernote-sdk-golang/userstore"
 	"math"
 	"net"
 	"net/url"
 	"os"
 	"strconv"
 	"strings"
+
+	"github.com/TcM1911/evernote-sdk-golang/userstore"
+	"github.com/apache/thrift/lib/go/thrift"
 )
 
 func Usage() {

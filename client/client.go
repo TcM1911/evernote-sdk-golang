@@ -2,9 +2,10 @@ package client
 
 import (
 	"fmt"
+
+	"github.com/TcM1911/evernote-sdk-golang/notestore"
+	"github.com/TcM1911/evernote-sdk-golang/userstore"
 	"github.com/apache/thrift/lib/go/thrift"
-	"github.com/tcm1911/evernote-sdk-golang/notestore"
-	"github.com/tcm1911/evernote-sdk-golang/userstore"
 	"github.com/mrjones/oauth"
 )
 

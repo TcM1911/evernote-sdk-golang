@@ -7,10 +7,10 @@ import (
 	"bytes"
 	"fmt"
 	"github.com/apache/thrift/lib/go/thrift"
-	"github.com/tcm1911/evernote-sdk-golang/errors"
-	"github.com/tcm1911/evernote-sdk-golang/limits"
-	"github.com/tcm1911/evernote-sdk-golang/types"
-	"github.com/tcm1911/evernote-sdk-golang/userstore"
+	"github.com/TcM1911/evernote-sdk-golang/errors"
+	"github.com/TcM1911/evernote-sdk-golang/limits"
+	"github.com/TcM1911/evernote-sdk-golang/types"
+	"github.com/TcM1911/evernote-sdk-golang/userstore"
 )
 
 // (needed to ensure safety because of naive import list construction.)
